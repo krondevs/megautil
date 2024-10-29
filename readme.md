@@ -14,6 +14,6 @@ Asegúrate de tener Go instalado en tu máquina. Puedes descargarlo desde [golan
 
 Clona el repositorio:
 
-```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+## Contribucion
+
+Se han tomados varias funciones del repositorio fun
