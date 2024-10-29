@@ -16,4 +16,4 @@ Clona el repositorio:
 
 ## Contribucion
 
-Se han tomados varias funciones del repositorio fun
+Se han tomados varias funciones del repositorio https://github.com/x-funs/go-fun
